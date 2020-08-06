@@ -4,17 +4,23 @@
   
   
   <entry>
-    <title>hexo部署教程</title>
+    <title>hexo教程</title>
     <link href="/2020/08/04/hexo%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"/>
     <url>/2020/08/04/hexo%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</url>
     
-    <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>列表一</li><li>列表二<br>  a 字列表<br>  <a href="https://g936919233.github.io/">gaowei</a><br>  b </li><li>列表三<br>node.js安装</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><h2 id="1-Node-js与Git安装"><a href="#1-Node-js与Git安装" class="headerlink" title="1.Node.js与Git安装"></a>1.Node.js与Git安装</h2><ul><li><p>打开node官网：<a href="https://nodejs.org/">node.js</a></p></li><li><p>打开Git官网：<a href="https://git-scm.com/download/win">Git</a></p></li><li><p>全部下一步安装node与git</p></li></ul><pre><code class="hljs crmsh">通过命令行<span class="hljs-keyword">node</span> <span class="hljs-title">-v</span>npm -vgit</code></pre><ul><li>来查看node与git是否安装成功</li></ul><hr><h2 id="2-安装hexo框架"><a href="#2-安装hexo框架" class="headerlink" title="2.安装hexo框架"></a>2.安装hexo框架</h2><ul><li>创建一个文件，通过命令行进入该文件</li></ul><pre><code class="hljs angelscript"><span class="hljs-number">1.</span>安装hexo框架npm install -g hexo -cli<span class="hljs-number">2.</span>初始化hexo框架hexo init<span class="hljs-number">3.</span>生成网页hexo g<span class="hljs-number">4.</span>启动服务hexo s</code></pre><p><img src="/img/local.png" alt="local"></p><ul><li>通过打开网页，来查看hexo是否配置成功</li></ul>]]></content>
     
+    
+    <categories>
+      
+      <category>前端</category>
+      
+    </categories>
     
     
     <tags>
       
-      <tag>-导航 -分享</tag>
+      <tag>导航, 分享</tag>
       
     </tags>
     
