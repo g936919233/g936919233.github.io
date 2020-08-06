@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>hexo-教程-更换主题</title>
+    <link href="/2020/08/06/hexo-%E6%95%99%E7%A8%8B-%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98/"/>
+    <url>/2020/08/06/hexo-%E6%95%99%E7%A8%8B-%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h1><h2 id="打开hexo管网"><a href="#打开hexo管网" class="headerlink" title="打开hexo管网"></a>打开hexo管网</h2><ul><li>选取<a href="https://hexo.io/themes/">主题</a></li><li>选取合适的主题</li></ul><h1 id="下载主题"><a href="#下载主题" class="headerlink" title="下载主题"></a>下载主题</h1><ul><li><p>将主题解压至<br><code>该文件夹目录下 \blog\themes</code></p></li><li><p>修改根目录下config.yml文件<br><img src="/img/themes.png" alt="themes"><br><img src="/img/themes.png" alt="local"><br><code>theme: fluid(主题名称)</code></p></li></ul><p>-主题更换完毕</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>导航</tag>
+      
+      <tag>分享</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hexo教程</title>
     <link href="/2020/08/04/hexo%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"/>
     <url>/2020/08/04/hexo%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</url>
@@ -20,7 +47,9 @@
     
     <tags>
       
-      <tag>导航, 分享</tag>
+      <tag>导航</tag>
+      
+      <tag>分享</tag>
       
     </tags>
     
